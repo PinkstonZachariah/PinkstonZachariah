@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PinkstonZachariah
-- 👀 I’m interested in learning how to write code, rock climbing, and the hardware of electronics
+- 👀 I’m interested in learning how to write code.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on something fun
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me zac22193984@live.com
 
 <!---
